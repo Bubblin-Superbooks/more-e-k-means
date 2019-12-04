@@ -1,19 +1,19 @@
 [
   {
+    "tag": "h4",
+    "innerHtml": "Drawn By E. W. Kemble."
+  },
+  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/more-e-k-means/master/assets/images/frontis.jpg"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>Drawn by E. W. Kemble.</p>"
+    "tag": "p",
+    "innerHtml": "<em>Diada, Daughter of Discord.</em>"
   },
   {
     "tag": "p",
     "innerHtml": "Diada picked up the gun, holding it like a club, and striking her tireless trot, followed in his tracks."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<em>Diada, Daughter of Discord.</em>"
   },
   {
     "tag": "hr",
@@ -25,7 +25,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<em>Is this a title? It is not. It is the name of a writer of negro stories, who has made himself so completely the writer of negro stories that this second book, like the first, needs no title.</em> ILLUSTRATED BY"
+    "innerHtml": "<em>Is this a title?</em> It is not. It is the name of a writer of negro stories, who has made himself so completely the writer of negro stories that this second book, like the first, needs no title."
   },
   {
     "tag": "hr",
