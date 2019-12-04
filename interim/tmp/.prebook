@@ -1,9 +1,5 @@
 [
   {
-    "tag": "h4",
-    "innerHtml": "Drawn By E. W. Kemble."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/more-e-k-means/master/assets/images/frontis.jpg"
   },
@@ -25,14 +21,18 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<em>Is this a title?</em> It is not. It is the name of a writer of negro stories, who has made himself so completely the writer of negro stories that this second book, like the first, needs no title."
+    "innerHtml": "Is <em>this</em> a title?"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "p",
+    "innerHtml": "It is not. It is the name of a writer of negro stories, who has made himself so completely the writer of negro stories that this second book, like the first, needs no title."
   },
   {
-    "tag": "h4",
+    "tag": "h5",
+    "innerHtml": "Illustrations E. W. Kemble."
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Foreword."
   },
   {
@@ -84,15 +84,15 @@
     "innerHtml": "<p>Diada, Daughter of Discord</p>"
   },
   {
-    "tag": "h3",
-    "innerHtml": "I"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter I"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "A Brand From The Burning"
   },
   {
@@ -304,15 +304,15 @@
     "innerHtml": "“All right,” Gaitskill assented. “I’ll keep her. I’ll turn her over to the care of the niggers and forget her—if I can. But I want you to give her all the instructions necessary for the next two weeks. I don’t speak cannibal.”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "II"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter II"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Hitch Has Vague Misgivings"
   },
   {
@@ -556,15 +556,15 @@
     "innerHtml": "“Come on here, you ole fool,” she said. “Why don’t you ack like nobody else?”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "III"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter III"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "On The Rampage"
   },
   {
@@ -800,12 +800,16 @@
     "innerHtml": "“I hope those pajamas are gone for good. Young Tom was a fool to send me such a slosh of color as they were—made me look like a soused rainbow!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "IV"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "A KIMONO-CLAD APPARITION"
+    "tag": "h4",
+    "innerHtml": "Chapter IV"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "A Kimono-clad Apparition"
   },
   {
     "tag": "p",
@@ -992,12 +996,16 @@
     "innerHtml": "With a loud whoop, Diada sprang across the drawing-room, dived headfirst through a large plateglass window, ran across the yard, and departed from Colonel Tom Gaitskill’s hospitable home forever."
   },
   {
-    "tag": "h3",
-    "innerHtml": "V"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "HITCH ENLISTS THE PARSON’S AID"
+    "tag": "h4",
+    "innerHtml": "Chapter V"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Hitch Enlists The Parson’s Aid"
   },
   {
     "tag": "p",
@@ -1232,15 +1240,15 @@
     "innerHtml": "“Come here, Hitch, an’ he’p me! Somepin’ is done happened to my eyesight—I ain’t seein’ right!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VI"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter VI"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Placating A Dervish"
   },
   {
@@ -1564,15 +1572,15 @@
     "innerHtml": "“Elder Atts, I don’t b’lieve you really favors furin missions!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VII"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter VII"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Alarums And Excursions"
   },
   {
@@ -1828,12 +1836,16 @@
     "innerHtml": "“Now, Mustard,” he said to his negro overseer, “you get all these coons to the cotton-shed on time. We want to get an early start!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VIII"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "AT THE GAITSKILL HOG-CAMP"
+    "tag": "h4",
+    "innerHtml": "Chapter VIII"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "At The Gaitskill Hog-camp"
   },
   {
     "tag": "p",
@@ -2104,12 +2116,16 @@
     "innerHtml": "Softened by the intervening space, it seemed to contain a plaintive note of appeal; yet this impression was but momentary, for Gaitskill found too close a kinship between this outlandish expression and the snarl of the wolf, the hiss of the snake, and the scream of the jungle beast bent on blood and death."
   },
   {
-    "tag": "h3",
-    "innerHtml": "IX"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "“DESE HERE IS TURR’BLE TIMES”"
+    "tag": "h4",
+    "innerHtml": "Chapter IX"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "“Dese Here Is Turr’ble Times”"
   },
   {
     "tag": "p",
@@ -2344,12 +2360,16 @@
     "innerHtml": "With that word of command began the greatest man-hunt that Tickfall Parish had ever known."
   },
   {
-    "tag": "h3",
-    "innerHtml": "X"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "THE MAN-HUNT"
+    "tag": "h4",
+    "innerHtml": "Chapter X"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The Man-hunt"
   },
   {
     "tag": "p",
@@ -2520,12 +2540,16 @@
     "innerHtml": "“That’s all, men!” Gaitskill said in a voice which choked in his throat. “You may all go back home now. Diada is gone from Tickfall forever!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "XI"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "“WHU ATCH”"
+    "tag": "h4",
+    "innerHtml": "Chapter XI"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "“Whu Atch”"
   },
   {
     "tag": "p",
@@ -4568,15 +4592,15 @@
     "innerHtml": "Messing with Matrimony"
   },
   {
-    "tag": "h3",
-    "innerHtml": "I"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter I"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Tick Promises"
   },
   {
@@ -4728,15 +4752,15 @@
     "innerHtml": "“Dat white man shore is wropped up my kinky hair with a strong string,” he sighed as he mopped the sweat from his face. “I b’lieve I’ll go ax a few advices outen Skeeter Butts.”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "II"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter II"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Skeeter Helps"
   },
   {
@@ -4992,15 +5016,15 @@
     "innerHtml": "“It’s a plum’ pity dat Vakey Vapp don’t git no letter,” he murmured. “I’s gwine down an’ mail dis letter to her as soon as Little Bit gits back. Bofe dem womans cain’t want Tick, an’ ’twon’t do no harm. Mebbe it’ll do a large amount of great good.”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "III"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter III"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Safety First"
   },
   {
@@ -5284,15 +5308,15 @@
     "innerHtml": "Tick Hush went to Tickfall, running about one hundred yards in advance of the two women, and the trio made as much noise as a calliope played by a maniac with a hundred fingers!"
   },
   {
-    "tag": "h3",
-    "innerHtml": "IV"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter IV"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "The Colonel Issues Orders"
   },
   {
@@ -5480,15 +5504,15 @@
     "innerHtml": "“I’ll mess wid mattermony, all right!” he chuckled. “It’s de kunnel’s awders!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "V"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter V"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Skeeter Helps Some More"
   },
   {
@@ -5708,15 +5732,15 @@
     "innerHtml": "“Oh, Little Bit! You take keer dis saloom till I gits back!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VI"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter VI"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Love Lessons"
   },
   {
@@ -5956,15 +5980,15 @@
     "innerHtml": "“Shuckins!” he said in deep disgust. “A nigger like Tick don’t never know whut’s good fer him!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VII"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter VII"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Button Hook"
   },
   {
@@ -6276,12 +6300,16 @@
     "innerHtml": "“Telephome Marse Tom Gaitskill, Ticky. Tell him to git out dem pair of cotehouse licenses befo’ de clerk’s office shuts up. Hurry!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VIII"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "“WHAT’S IN A NAME?”"
+    "tag": "h4",
+    "innerHtml": "Chapter VIII"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "“What’s In A Name?”"
   },
   {
     "tag": "p",
@@ -6580,15 +6608,15 @@
     "innerHtml": "“Soon as it gits good dark, I’ll start,” she murmured. “I muss git him befo’ de moon rises!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "IX"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter IX"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Tick Celebrates"
   },
   {
@@ -6876,15 +6904,15 @@
     "innerHtml": "“My Gawd, niggers!” he howled. “Marse Tom is got to git him anodder nigger. Dis’n is plum’ ruint. Send fer de dorctor! I’s been helt up an’ robbed an’ shotted to death!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "X"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter X"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Tick Seeks A Place To Die"
   },
   {
@@ -7160,15 +7188,15 @@
     "innerHtml": "“We forgot all about dat one, Skeeter,” he mourned. “Oh, lawdy! Ef I ever gits outen dis mess, I ain’t gwine mess wid mattermony no more!”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "XI"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter XI"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Tick Flies The Yellow Flag"
   },
   {
@@ -7412,15 +7440,15 @@
     "innerHtml": "“’Tain’t really needful to do dat,” Hitch Diamond rumbled. “Excusin’ Vakey, all of ’em knows it ’tain’t nothin’ but a joke nohow. Niggers didn’t sing no religium tunes aroun’ dis pest-wagon thuty year ago when de yeller fever kotch us.”"
   },
   {
-    "tag": "h3",
-    "innerHtml": "XII"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter XII"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Limit Goes The Limit"
   },
   {
@@ -11300,12 +11328,16 @@
     "innerHtml": "Every Pose a Picture"
   },
   {
-    "tag": "h3",
-    "innerHtml": "I"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "AN ALL-COON CAST"
+    "tag": "h4",
+    "innerHtml": "Chapter I"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "An All-coon Cast"
   },
   {
     "tag": "p",
@@ -11496,15 +11528,15 @@
     "innerHtml": "When the door closed behind this oddly assorted pair, Gaitskill broke out in a loud laugh."
   },
   {
-    "tag": "h3",
-    "innerHtml": "II"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
     "tag": "h4",
+    "innerHtml": "Chapter II"
+  },
+  {
+    "tag": "h3",
     "innerHtml": "An Art To Art Talk"
   },
   {
@@ -11784,12 +11816,8 @@
     "innerHtml": "“Gee,” he grinned, as he began his scenario, “that’s an utterly wretched title, I don’t think!”"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h3",
-    "innerHtml": "III"
+    "tag": "h4",
+    "innerHtml": "Chapter III"
   },
   {
     "tag": "h4",
@@ -12088,12 +12116,8 @@
     "innerHtml": "“Peter,” he said in a quiet voice, “would you mind leading me to the private office of Colonel Tom Gaitskill in the Tickfall bank? Since I’ve been associating with the negro inhabitants of this village, I don’t believe I have sense enough to find that office.”"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h3",
-    "innerHtml": "IV"
+    "tag": "h4",
+    "innerHtml": "Chapter IV"
   },
   {
     "tag": "h3",
@@ -12496,12 +12520,16 @@
     "innerHtml": "“I got it all, Roukey!” he said."
   },
   {
-    "tag": "h3",
-    "innerHtml": "V"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "READY—ACTION—GO!"
+    "tag": "h4",
+    "innerHtml": "Chapter V"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Ready—action—go!"
   },
   {
     "tag": "p",
@@ -12876,12 +12904,16 @@
     "innerHtml": "It was a Dog License!"
   },
   {
-    "tag": "h3",
-    "innerHtml": "VI"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "“CUT!”"
+    "tag": "h4",
+    "innerHtml": "Chapter VI"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "“Cut!”"
   },
   {
     "tag": "p",
