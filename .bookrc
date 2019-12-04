@@ -1,0 +1,22 @@
+{
+  "name": "More E. K. Means",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/more-e-k-means/master/assets",
+  "book_id": 1281,
+  "book_url": "https://bubblin.io/book/more-e-k-means-by-e-k-means"
+}
